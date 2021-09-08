@@ -1,7 +1,7 @@
 /*
 * Created by rrenamed
 * Feel free to contribute explanations
-* https://codeforces.com/contest/1560/submission/127462230
+* https://codeforces.com/contest/1567/submission/128289075
 */
 
 #include <iostream>
